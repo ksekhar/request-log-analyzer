@@ -12,3 +12,7 @@ requests.db
 Gemfile.lock
 /.bundle/
 *.rbc
+output
+bin/*.log
+bin/*.log.*
+nbproject
